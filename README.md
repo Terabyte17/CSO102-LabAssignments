@@ -1,3 +1,0 @@
-# -19095110-_cso102
-LAB ASSIGNMENT 1
-Tasks 1&2
